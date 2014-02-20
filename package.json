@@ -1,0 +1,16 @@
+{
+  "name": "mocha-jsdom",
+  "description": "Proof of concept Mocha tests + JSDom",
+  "keywords": ["proof-of-concept", "testing"],
+  "author": "Jacob Oscarson <jacob@plexical.com>",
+  "main": "mocha-jsdom.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:JacobOscarson/mocha-jsdom.git"
+  }
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*",
+    "jsdom": "*"
+  }
+}
