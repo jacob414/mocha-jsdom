@@ -1,4 +1,4 @@
-# Running Mocha tests under Node.js with a jsdom
+# Mocha tests under Node.js with a jsdom
 
 This is a proof of concept project to find a convenient way of running
 Mocha tests via the Node.js runner using
